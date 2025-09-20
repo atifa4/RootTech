@@ -53,5 +53,3 @@ Query history
 Pest/crop advisories
 -Works in multilingual mode (Malayalam, Tamil, English) and supports both text and voice chat.
 
-✅ Summary:
-The system works as a Digital Krishi Officer – an AI-powered assistant that processes farmer queries using text/voice/image, contextualizes them with local weather, soil, and crop data, fetches information from APIs and databases, and delivers responses in a farmer-friendly format. If queries are complex, they are escalated to Agro Officers, making the system scalable, reliable, and inclusive.
